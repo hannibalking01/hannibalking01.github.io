@@ -1,0 +1,39 @@
+body {
+    background-color: #FFFBC4;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../images/pattern.jpg");
+    margin-top: 0;
+    background-size: cover;
+}
+
+.art-item {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+
+.art-item #brushes {
+    background-color: mediumspringgreen;
+}
+
+.art-item #frames {
+    background-color: lightcoral;
+}
+
+.art-item #paint {
+    background-color: skyblue;
+}
+
+span {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: blue; 
+}
